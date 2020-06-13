@@ -1,3 +1,26 @@
+[http://cartmanila.com/static/shopper/img/default_img/cart_manila_logo.png](http://cartmanila.com)
+
+# Cartmanila (Seller Dashboard)
+> This project will be used to provide portal for `cartmanila` sellers
+
+
+## Requirements
+
+node: `>= 8.10`
+npm : `>= 5.6`
+
+## Environments
+
+| Environment              | Description                 |
+|--------------------------|-----------------------------|
+| `.env.development`       | For Development.            |
+| `.env.testing`           | For Testing.                |
+| `.env.staging`           | For Staging.                |
+| `.env.production`.       | For Production.             |
+
+
+
+This project was
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
