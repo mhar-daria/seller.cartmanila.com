@@ -1,13 +1,24 @@
 ![CartManila](http://cartmanila.com/static/shopper/img/default_img/cart_manila_logo.png)
 
 # Cartmanila (Seller Dashboard)
+
 > This project will be used to provide portal for `cartmanila` sellers
 
+> This project is a dockerized application
+
+## Installations
+
+> Docker Installation
+*Installation for Mac*
+[Mac](https://docs.docker.com/docker-for-mac/install/)
+*Installation for Windows*
+[Windows](https://docs.docker.com/docker-for-windows/install/)
 
 ## Requirements
 
 node: `>= 8.10`
-npm : `>= 5.6`
+npm: `>= 5.6`
+docker: 
 
 ## Environments
 
@@ -53,6 +64,7 @@ REACT_APP_SITE_NAME=Seller Cart Manila
 REACT_APP_BASE_URL=http://seller.cartmanila.com
 REACT_APP_JWT_SECRET=fa2ebdef1ce7c7c864576b01d20c3df9
 ```
+
 
 This project was
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
