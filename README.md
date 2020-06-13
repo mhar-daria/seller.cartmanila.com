@@ -1,4 +1,4 @@
-![CartManila](http://cartmanila.com/static/shopper/img/default_img/cart_manila_logo.png)g
+![CartManila](http://cartmanila.com/static/shopper/img/default_img/cart_manila_logo.png)
 
 # Cartmanila (Seller Dashboard)
 > This project will be used to provide portal for `cartmanila` sellers
