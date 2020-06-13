@@ -18,7 +18,41 @@ npm : `>= 5.6`
 | `.env.staging`           | For Staging.                |
 | `.env.production`.       | For Production.             |
 
+### Development
+```
+REACT_APP_SITE_NAME=Seller Cart Manila
+REACT_APP_BASE_URL=http://localhost:7770
+REACT_APP_JWT_SECRET=efd867c142b7734fc7732f3bd19c7e9b
+```
 
+
+### Testing
+```
+REACT_APP_SITE_NAME=Seller Cart Manila
+REACT_APP_BASE_URL=http://localhost:7771
+REACT_APP_LOGIN=/login
+REACT_APP_REGISTER=/register
+REACT_APP_FORGOT_PASSWORD=/forgot-password
+REACT_APP_RESET_PASSWORD=/reset-password
+REACT_APP_RESEND_EMAIL=/reset-email
+REACT_APP_ACTIVATE_ACCOUNT=/account/activate
+REACT_APP_HOME=/home
+REACT_APP_JWT_SECRET=acb5bb620882b0aeb03f9751227a924c
+```
+
+### Staging
+```
+REACT_APP_SITE_NAME=Seller Cart Manila
+REACT_APP_BASE_URL=http://localhost:7772
+REACT_APP_JWT_SECRET=b65fd4b29901c7d93c060fa6d5128ed4
+```
+
+### Production
+```
+REACT_APP_SITE_NAME=Seller Cart Manila
+REACT_APP_BASE_URL=http://seller.cartmanila.com
+REACT_APP_JWT_SECRET=fa2ebdef1ce7c7c864576b01d20c3df9
+```
 
 This project was
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
