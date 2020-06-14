@@ -6,13 +6,12 @@
 
 > This project is a dockerized application
 
+> Design based in `materialize-css`
+
 ## Installations
 
-> Docker Installation
-*Installation for Mac*
-[Mac](https://docs.docker.com/docker-for-mac/install/)
-*Installation for Windows*
-[Windows](https://docs.docker.com/docker-for-windows/install/)
+> Docker Installation *Installation for [Mac](https://docs.docker.com/docker-for-mac/install/)* *Installation for [Windows](https://docs.docker.com/docker-for-windows/install/)*
+
 
 ## Requirements
 
