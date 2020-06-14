@@ -19,6 +19,22 @@ node: `>= 8.10`
 npm: `>= 5.6`
 docker: 
 
+## Dependencies
+
+```
+axios
+materialize-css
+react-materialize
+jsonwebtoken
+store
+redux
+redux-thunk
+react-redux
+moment
+twix
+@tinymce/tinymce-react
+````
+
 ## Environments
 
 | Environment              | Description                 |
